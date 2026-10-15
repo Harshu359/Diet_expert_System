@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Chicken Salad",
+    "category": "Dinner",
+    "diet_type": "Non-Vegetarian",
+    "allergens": [],
+    "ingredients": ["chicken breast", "lettuce", "olive oil", "lemon"],
+    "calories": 350,
+    "protein": 35,
+    "sodium": 200,
+    "is_diabetic_friendly": true
+  },
+  {
+    "id": 2,
+    "name": "Peanut Butter Oatmeal",
+    "category": "Breakfast",
+    "diet_type": "Vegan",
+    "allergens": ["peanuts", "nuts"],
+    "ingredients": ["oats", "peanut butter", "almond milk", "banana"],
+    "calories": 400,
+    "protein": 15,
+    "sodium": 100,
+    "is_diabetic_friendly": false
+  },
+  {
+    "id": 3,
+    "name": "Quinoa Veggie Bowl",
+    "category": "Lunch",
+    "diet_type": "Vegan",
+    "allergens": [],
+    "ingredients": ["quinoa", "spinach", "tomatoes", "olive oil"],
+    "calories": 300,
+    "protein": 10,
+    "sodium": 150,
+    "is_diabetic_friendly": true
+  }
+]
